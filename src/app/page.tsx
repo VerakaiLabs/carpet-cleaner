@@ -256,7 +256,7 @@ const App = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center items-center mb-16 sm:mb-24 print:hidden">
             <a 
-              href="https://wa.me/9779742827007?text=Hi%2C%20I%27m%20interested%20in%20starting%20a%20project"
+              href="https://wa.me/9779742827007?text=Hi%2C%20I%27m%20interested%20in%20starting%20the%20project"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-white text-[#0A2C60] px-8 sm:px-12 py-4 sm:py-6 rounded-xl sm:rounded-2xl font-bold text-xs sm:text-sm uppercase tracking-widest hover:bg-[#FF6900] hover:text-white transition-all shadow-xl text-center"
