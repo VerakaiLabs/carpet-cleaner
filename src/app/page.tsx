@@ -226,10 +226,9 @@ const App = () => {
                     {[
                         "Custom designs for Brand A & B",
                         "High-speed mobile performance",
-                        "Simple booking and quote forms",
                         "Separate hosting server setup",
                         "Local SEO foundation",
-        
+                        "Stealth SEO setup to keep both brands independent"
                     ].map((item, i) => (
                         <div key={i} className="flex items-center gap-3 sm:gap-4 text-xs sm:text-sm font-semibold text-slate-700">
                             <div className="w-1.5 h-1.5 bg-[#FF6900] rounded-full flex-shrink-0"></div>
